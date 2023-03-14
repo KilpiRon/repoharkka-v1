@@ -1,2 +1,2 @@
-testitekstiä
-teksti
+testiteksti
+tekstiteksti
